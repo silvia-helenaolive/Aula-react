@@ -9,9 +9,7 @@ function App() {
 
   return (
     <>
-     <body class="text-center">
-
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container">
             <a class="navbar-brand" href="#"></a><img src="icone instagram.jpg" alt="Bootstrap" width="30"
                 height="24" />
@@ -79,48 +77,48 @@ function App() {
             </div>
             <div class="row mt-sm-0 overflow-x-scroll flex-nowrap">
                 <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="flor4.png" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 1</p>
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 1</p>
                 </div>
                 <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 2</p>
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 2</p>
                 </div>
                 <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 3</p>
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 3</p>
                 </div>
                 <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 4</p>
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 4</p>
                 </div>
                 <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 5</p>
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 5</p>
                 </div>
                 <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 6</p>
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 6</p>
+
+                </div>
+                <div class="col-4 col-sm-3 col-md-2 text-center">
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 7</p>
+
+                </div>
+                <div class="col-4 col-sm-3 col-md-2 text-center">
+                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle"/>
+                    <p class="mt-2"> Destaque 8</p>
 
                 </div>
                 <div class="col-4 col-sm-3 col-md-2 text-center">
                     <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 7</p>
+                    <p class="mt-2"> Destaque 9</p>
 
                 </div>
                 <div class="col-4 col-sm-3 col-md-2 text-center">
                     <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 8</p>
-
-                </div>
-                <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 9</p>
-
-                </div>
-                <div class="col-4 col-sm-3 col-md-2 text-center">
-                    <img src="https://placehold.co/500" alt="Destaque" class="img-thumbnail rounded-circle">
-                    <p class=="mt-2"> Destaque 10</p>
+                    <p class="mt-2"> Destaque 10</p>
 
                 </div>
             </div>
@@ -146,64 +144,56 @@ function App() {
                 <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab"
                     tabindex="0">
                     <div class="row gy-1 gx-1">
-                        <div class="col-12 col-md-6 col-lg-3"><img src="girassol.png" alt="post"
-                                class="img-fluid"></div>
+                        <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
+                                class="img-fluid"/></div>
+                        <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
+                                class="img-fluid"/></div>
+                        <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
+                                class="img-fluid"/></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
                                 class="img-fluid"></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
                                 class="img-fluid"></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
+                                class="img-fluid"/></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
+                                class="img-fluid"/></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
+                                class="img-fluid"/></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
+                                class="img-fluid"/></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
+                                class="img-fluid"/></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
+                                class="img-fluid"/></div>
                         <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
-                        <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
-                        <div class="col-12 col-md-6 col-lg-3"><img src="https://placehold.co/400" alt="post"
-                                class="img-fluid"></div>
+                                class="img-fluid"/></div>
                     </div>
                 </div>
             </div>
             <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab"
                 tabindex="0">
                 <div class="row gy-1 gx-1">
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
-                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
+                    <div class="col-4"><img src="https://placehold.co/500x800" alt="post" class="img-fluid"/></div>
                 </div>
                 <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab"
                     tabindex="0">
                 </div>
 
             </div>
-
+</div>
     </main>
-    <footer>
-        <!-- place footer here -->
-    </footer>
-    <!-- Bootstrap JavaScript Bundle (includes Popper) -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
-        crossorigin="anonymous"></script>
-</body>
     </>
   )
 }
